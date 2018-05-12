@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/585
     wikipedia: http://en.wikipedia.org/wiki/Ellis_Parker_Butler
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28389#Goat-Feathers
 gutenberg_issued: '2009-03-22'
 gutenberg_type: Text
 identifiers:
